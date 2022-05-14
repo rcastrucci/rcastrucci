@@ -7,5 +7,6 @@ I am a Brazilian/Italian software developer, with a crush for backend, currently
 <br> I’m currently graduating in systems analysis and development at FIAP in Sao Paulo Brazil
 <br> I’m looking forward to collaborate, learn, share and improve some knowledge
 
-##### Email me at *email@rcastrucci.com*
-###### May the force be with us!
+######
+![Top Langs](https://github-readme-stats.vercel.app/api?username=rcastrucci&show_icons=true&theme=tokyonight&hide_title=True&hide_border=True)
+###### Email me at *dev@rcastrucci.com* <br> May the force be with us!
