@@ -1,4 +1,4 @@
-![profile image](https://rcastrucci.com/dev/github/cover.jpg#gh-dark-mode-only)
+![profile image](https://github.com/rcastrucci/rcastrucci/blob/main/cover.jpg#gh-dark-mode-only)
 
 <h3 align="start"> Hi, my name is Renne 🕺 </h3>
 I am a Brazilian/Italian software developer, with a crush for backend, currently based in São Paulo.
