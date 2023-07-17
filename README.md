@@ -4,7 +4,7 @@
 <h3 align="start"> Hi, my name is Renne 🕺 </h3>
 I am a curious and passionated software developer.
 <br> Always studying, learning and improving. 
-<br> Currently graduating in systems analysis and development at FIAP in Sao Paulo Brazil
+<br> Graduated in systems analysis and development at FIAP in Sao Paulo Brazil
 
 ######
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rcastrucci&show_icons=true&theme=tokyonight&hide_title=True&hide_border=True&card_width=450&include_all_commits=true&line_height=30)
