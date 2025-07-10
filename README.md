@@ -1,5 +1,5 @@
 <!-- ![profile image](https://github.com/rcastrucci/rcastrucci/blob/main/cover.jpg#gh-dark-mode-only) -->
-![profile image](https://github.com/rcastrucci/rcastrucci/blob/main/word_cloud.png#gh-dark-mode-only)
+![profile image](https://github.com/rcastrucci/rcastrucci/blob/main/wordcloud.png#gh-dark-mode-only)
 
 <h3 align="start">Hi 🕺🏻</h3>
 
